@@ -48,7 +48,11 @@
 
     Expected: Interpreted — it executes line by line.
     ```
-    
+    # What symbol is used to assign a value in Python?
+    ```
+     Expected: = (equal sign).
+     ```
+     
 
 
 
