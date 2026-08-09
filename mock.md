@@ -10,6 +10,11 @@
   ```
    Expected: Must start with a letter or underscore, not a number; no spaces allowed; case-sensitive; cannot use reserved keywords
    ```
+   # What is the difference between x = 10 and x = "10"?
+   ```
+    Expected: The first is an integer, the second is a string — they look the same but have different types.
+    ```
     
+
    
   
