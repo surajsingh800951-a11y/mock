@@ -43,7 +43,12 @@
 
    Expected: A folder/project that stores code along with its history.
    ```
-   
+   # Is Python an interpreted or compiled language?
+   ```
+
+    Expected: Interpreted — it executes line by line.
+    ```
+    
 
 
 
