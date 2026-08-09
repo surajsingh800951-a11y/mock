@@ -52,7 +52,11 @@
     ```
      Expected: = (equal sign).
      ```
-     
+     #What's the difference between Integer and Float?
+     ```
+      Give an example. Expected: Integer is a whole number (5), Float is a decimal number (5.5)
+      ```
+      
 
 
 
