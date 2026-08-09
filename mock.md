@@ -38,7 +38,13 @@
 
   Expected: Turns the current folder into a Git repository.
   ```
-  
+  # What is a repository (repo)?
+  ```
+
+   Expected: A folder/project that stores code along with its history.
+   ```
+   
+
 
 
 
