@@ -14,10 +14,11 @@
    ```
     Expected: The first is an integer, the second is a string — they look the same but have difference.
     ```
+
     
 # How many basic data types does Python have? Name them
 ```
-Name them. Expected: int, float, str, bool, list, tuple, dict, set.
+ Expected: int, float, str, bool, list, tuple, dict, set.
 ```
 
 
