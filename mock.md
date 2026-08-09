@@ -27,7 +27,13 @@
      ```
       Expected: A version control system that tracks changes in code
       ```
-      
+    
+    
+# What is the difference between Git and GitHub?
+```
+ Expected: Git is a tool (local), GitHub is an online platform where Git repositories are hosted
+ ```
+ 
 
 
 
