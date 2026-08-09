@@ -6,4 +6,10 @@
  ```
   Expected: A name used to store a value in memory.
   ```
+  # What are the rules for naming a variable in Python?
+  ```
+   Expected: Must start with a letter or underscore, not a number; no spaces allowed; case-sensitive; cannot use reserved keywords
+   ```
+    
+   
   
