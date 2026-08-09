@@ -33,7 +33,12 @@
 ```
  Expected: Git is a tool (local), GitHub is an online platform where Git repositories are hosted
  ```
- 
+ # What does the git init command do?
+ ```
+
+  Expected: Turns the current folder into a Git repository.
+  ```
+  
 
 
 
