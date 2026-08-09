@@ -15,11 +15,15 @@
     Expected: The first is an integer, the second is a string — they look the same but have difference.
     ```
 
-    
-# How many basic data types does Python have? Name them
-```
- Expected: int, float, str, bool, list, tuple, dict, set.
-```
+   # How many basic data types does Python have? Name them
+    ```
+     Expected: int, float, str, bool, list, tuple, dict, set.
+     ```
+     # What does the type() function do?
+     ```
+     Expected: It tells you the data type of a variable.
+     ```
+     
 
 
 
