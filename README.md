@@ -11,7 +11,7 @@
 
 ---
 
-## magan
+# Magan
  
 1. **What is Python and where is it used?**
    *Expected: A high-level, interpreted, easy-to-read programming language; used in web development, data science, automation, AI/ML.*
@@ -45,7 +45,7 @@
 
 ---
 
-## shivam
+# Shivam Yadav
 
 1. **Is Python an interpreted or compiled language?**
    *Expected: Interpreted — it executes line by line.*
@@ -79,7 +79,7 @@
 
 ---
 
-## suraj
+# Suraj Singh
 
 1. **What do you need to run Python code?**
    *Expected: A Python interpreter installed on the system.*
@@ -113,7 +113,7 @@
 
 ---
 
-## dileep
+## Dileep
 
 1. **Python is case-sensitive — what does that mean?**
    *Expected: `Name` and `name` will be treated as two different variables.*
@@ -147,7 +147,7 @@
 
 ---
 
-## satyam
+## Satyam
 
 1. **Why is Python considered a beginner-friendly language?**
    *Expected: Simple syntax, readable like English, less code needed to get things done.*
@@ -181,7 +181,7 @@
 
 ---
 
-## vishu
+## Vishu
 
 1. **What is the file extension for a Python file?**
    *Expected: `.py`*
