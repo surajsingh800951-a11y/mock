@@ -4,12 +4,7 @@ Pasted markdown(2).md
 File
  yah readme hai mujhe aisa readme bana ke do usame question ke niche soluation bhi rahe answer   matlab
 
-Haan dost, samajh gaya. 👍
-
-Tumhare current README me question + “Expected answer” diya hua hai. Jaise Python/Git ke questions sets me arranged hain. 
-
-
-Tum chahte ho format kuch aisa ho:
+Haan dost, samajh 
 
 ## 1. What is Python and where is it used?
 
