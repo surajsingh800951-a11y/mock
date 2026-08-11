@@ -1,6 +1,6 @@
 # Mock Interview Questions — Python Basics + Git/GitHub
 
-### Professional Practice & Interview Preparation
+## Interview Preparation
 
 This README contains structured mock interview questions for Python Basics and Git/GitHub.
 
