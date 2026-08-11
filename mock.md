@@ -1,5 +1,4 @@
 # Mock Interview Questions — Python Basics + Git/GitHub
-### (For 8 students — each will interview one another)
 
 **Topics covered:**
 - Python Introduction
@@ -7,7 +6,6 @@
 - Data Types
 - Git & GitHub Basics
 
-**How to use:** Each student is given one Set (Set 1 to Set 8). The interviewer for that student will ask only from that set. A short "expected answer point" is given with each question so the interviewer can judge whether the answer is correct. The answer doesn't need to match word-for-word — the concept should just be clear.
 
 ---
 
